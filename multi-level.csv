@@ -1,0 +1,25 @@
+Level,Part No,Description,Qty,Material
+1,B001,Bike assembly,1,-
+2,B002,Frame assembly ,1,-
+3,B022,Carbon frame,1,Carbon fibre
+3,B004,Fork,1,Carbon fibre
+3,B005,Bearing,2,Ceramic
+3,B006,Screw,2,Steel
+2,B007,Back wheel assembly,1,-
+3,B008,Spoke,34,Steel
+3,B009,Rim,1,Aluminium
+3,B010,Sprocket,1,Steel
+3,B023,Road tyre,1,Rubber
+2,B012,Front wheel assembly,1,-
+3,B008,Spoke,34,Steel
+3,B009,Rim ,1,Aluminium
+3,B023,Road tyre,1,Rubber
+2,B013,Saddle,1,Leather
+2,B014,Brakes assembly,2,-
+3,B015,Brake lever assembly,1,-
+4,B018,Brake lever,1,Aluminium
+4,B019,Brake cable,1,Steel
+4,B020,Brake screw,1,Steel
+3,B016,Pivot arm left,1,Aluminium
+3,B017,Pivot arm right,1,Aluminium
+3,B021,Brake pad,2,Mixed
